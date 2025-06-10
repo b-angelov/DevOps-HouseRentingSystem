@@ -7,7 +7,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  setup-dotnet:
+  setup-build-test:
 
     runs-on: ubuntu-latest
 
